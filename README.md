@@ -64,7 +64,7 @@ This workflow is ideal for:
 
 To run this workflow, you need:
 
-* **n8n instance** (cloud or self-hosted)
+* **[n8n account](https://n8n.partnerlinks.io/om1efg2qgvwi)** (cloud or self-hosted)
 * **Zoho CRM account** with API access
 * **AlphaVantage API key** for market data
 * **Slack workspace** with API permissions
